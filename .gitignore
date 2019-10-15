@@ -16,5 +16,3 @@ app/tmp/main.go
 public/config.codekit
 files
 /node_modules
-.idea
-*.iml
